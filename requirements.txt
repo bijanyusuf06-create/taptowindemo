@@ -1,3 +1,4 @@
-﻿python-telegram-bot==20.6
+python-telegram-bot==20.6
 aiohttp
 asyncio
+httpx==0.27.0
